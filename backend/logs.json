@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2025-11-19 20:45:30",
+    "prompt": "1+1 ?",
+    "answer": "1+1 equals 2.",
+    "duration_sec": 1.52,
+    "answer_chars": 13
+  }
+]
